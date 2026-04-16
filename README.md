@@ -3,7 +3,7 @@
 # Hi there, I'm Aflah Farhan K. 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27AE60&center=true&vCenter=true&width=435&lines=Polymath+%7C+Computer+Scientist;Quantum+ML+Researcher;Novelist+%26+Worldbuilder;MLOps+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27AE60&center=true&vCenter=true&width=435&lines=AI+Engineer;Quantum+ML;MLOps+Engineer" alt="Typing SVG" />
 </div>
 
 ---
@@ -70,5 +70,3 @@ My work focuses on building robust, production-ready systems through MLOps—spe
 ---
 
 *"Exploring the boundaries of the known, one qubit and one chapter at a time."*
-README.md
-Displaying README.md.
