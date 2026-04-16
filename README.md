@@ -46,6 +46,8 @@ My work focuses on building robust, production-ready systems through MLOps—spe
 </div>
 
 <div align= "left">
+
+  
 #### 🤖 Artificial Intelligence & Generative AI
 * **Architectures:** Retrieval-Augmented Generation (RAG), Large Language Models (LLMs).
 * **Frameworks:** LangChain, PennyLane (Quantum ML), Qiskit, PyTorch.
