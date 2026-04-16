@@ -29,7 +29,7 @@ My work focuses on building robust, production-ready systems through MLOps—spe
 
   <!-- Skill Icons with a slight bounce effect using HTML/CSS if supported by GitHub, otherwise standard icons -->
 
-<div align="center">
+<div align="left">
   
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-Expertise-blueviolet?style=for-the-badge" />
