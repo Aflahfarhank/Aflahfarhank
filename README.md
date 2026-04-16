@@ -45,16 +45,18 @@ My work focuses on building robust, production-ready systems through MLOps—spe
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </div>
 
+
 #### 🤖 Artificial Intelligence & Generative AI
-* **Architectures:** Retrieval-Augmented Generation (RAG), Large Language Models (LLMs).
-* **Frameworks:** LangChain, PennyLane (Quantum ML), Qiskit, PyTorch.
-* **Domains:** Phishing Detection (Network Security), Heart Disease Prediction.
+**Architectures:** Retrieval-Augmented Generation (RAG), Large Language Models (LLMs).
+**Frameworks:** LangChain, PennyLane (Quantum ML), Qiskit, PyTorch.
+**Domains:** Phishing Detection (Network Security), Heart Disease Prediction.
+
 
 #### ⚙️ MLOps & Engineering
-* **Experiment Tracking:** MLflow for model versioning and monitoring.
-* **MLOps:** MLflow, GitHub Actions, Airflow, Containerization (Docker
-* **CI/CD:** GitHub Actions for automated testing and deployment pipelines.
-* **Infrastructure:** Docker containerization, AWS cloud hosting, and local GPU acceleration via CUDA.
+**Experiment Tracking:** MLflow for model versioning and monitoring.
+**MLOps:** MLflow, GitHub Actions, Airflow, Containerization (Docker
+**CI/CD:** GitHub Actions for automated testing and deployment pipelines.
+**Infrastructure:** Docker containerization, AWS cloud hosting, and local GPU acceleration via CUDA.
 
 ---
 ### 📈 GitHub Stats
