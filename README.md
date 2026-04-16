@@ -20,7 +20,7 @@ My work focuses on building robust, production-ready systems through MLOps—spe
 
 ### 🛠️ Skills & Interests
 
-<div align="center">
+<div align="left">
   
   <!-- Animation for Skills -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aflahfarhank&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
@@ -45,6 +45,7 @@ My work focuses on building robust, production-ready systems through MLOps—spe
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </div>
 
+<div align= "left">
 #### 🤖 Artificial Intelligence & Generative AI
 * **Architectures:** Retrieval-Augmented Generation (RAG), Large Language Models (LLMs).
 * **Frameworks:** LangChain, PennyLane (Quantum ML), Qiskit, PyTorch.
@@ -55,7 +56,7 @@ My work focuses on building robust, production-ready systems through MLOps—spe
 * **CI/CD:** **GitHub Actions** for automated testing and deployment pipelines.
 * * **MLOps:** MLflow, GitHub Actions, Airflow, Containerization (Docker).
 * **Infrastructure:** Docker containerization, AWS cloud hosting, and local GPU acceleration via CUDA.
-
+</div>
 ---
 ### 📈 GitHub Stats
 
