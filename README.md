@@ -28,20 +28,33 @@ My work focuses on building robust, production-ready systems through MLOps—spe
   <br/>
 
   <!-- Skill Icons with a slight bounce effect using HTML/CSS if supported by GitHub, otherwise standard icons -->
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  </p>
+
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-Expertise-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" />
+  
+  <br/>
+
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </div>
 
-#### 🔬 Quantum & AI
-- **Frameworks:** PennyLane, Qiskit, PyTorch.
-- **MLOps:** MLflow, GitHub Actions, Airflow, Containerization (Docker).
-- **Specialties:** Quantum Machine Learning, Network Security (Phishing Detection).
+#### 🤖 Artificial Intelligence & Generative AI
+* **Architectures:** Retrieval-Augmented Generation (RAG), Large Language Models (LLMs).
+* **Frameworks:** LangChain, PennyLane (Quantum ML), Qiskit, PyTorch.
+* **Domains:** Phishing Detection (Network Security), Heart Disease Prediction.
+
+#### ⚙️ MLOps & Engineering
+* **Experiment Tracking:** MLflow for model versioning and monitoring.
+* **MLOps:** MLflow, GitHub Actions, Airflow, Containerization (Docker
+* **CI/CD:** GitHub Actions for automated testing and deployment pipelines.
+* **Infrastructure:** Docker containerization, AWS cloud hosting, and local GPU acceleration via CUDA.
 
 ---
 ### 📈 GitHub Stats
