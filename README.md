@@ -56,10 +56,12 @@ My work focuses on building robust, production-ready systems through MLOps—spe
 #### ⚙️ MLOps & Engineering
 * **Experiment Tracking:** **MLflow** for model versioning and monitoring.
 * **CI/CD:** **GitHub Actions** for automated testing and deployment pipelines.
-* * **MLOps:** MLflow, GitHub Actions, Airflow, Containerization (Docker).
+* **MLOps:** MLflow, GitHub Actions, Airflow, Containerization (Docker).
 * **Infrastructure:** Docker containerization, AWS cloud hosting, and local GPU acceleration via CUDA.
 </div>
+
 ---
+
 ### 📈 GitHub Stats
 
 <div align="center">
