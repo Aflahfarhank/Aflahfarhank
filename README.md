@@ -59,7 +59,7 @@ My work focuses on building robust, production-ready systems through MLOps—spe
   <a href="https://aflahfarhank.tech" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
   </a>
-  <a href="https://www.linkedin.com/in/aflah-farhan-k-1110001b2" target="_blank">
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/aflah-farhan-k" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:aflahjb@gmail.com">
