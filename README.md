@@ -3,7 +3,7 @@
 # Hi there, I'm Aflah Farhan K. 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27AE60&center=true&vCenter=true&width=435&lines=AI+Engineer;Quantum+ML;MLOps+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27AE60&center=true&vCenter=true&width=435&lines=AI+Engineer;Quantum+ML;MLOps+Engineer;Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
