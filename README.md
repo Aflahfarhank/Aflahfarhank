@@ -51,7 +51,7 @@ My work focuses on building robust, production-ready systems through MLOps—spe
 #### 🤖 Artificial Intelligence & Generative AI
 * **Architectures:** Retrieval-Augmented Generation (RAG), Large Language Models (LLMs).
 * **Frameworks:** LangChain, PennyLane (Quantum ML), Qiskit, PyTorch.
-* **Domains:** Phishing Detection (Network Security), Heart Disease Prediction.
+* **Domains:** Quantum Computation, AI, ML, AI agents.
 
 #### ⚙️ MLOps & Engineering
 * **Experiment Tracking:** **MLflow** for model versioning and monitoring.
